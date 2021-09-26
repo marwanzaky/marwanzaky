@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&show_icons=true&theme=radical)
 
 <!--
