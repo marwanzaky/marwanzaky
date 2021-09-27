@@ -1,5 +1,10 @@
 ### Hi there 👋 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=marwanzaky)
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&show_icons=true&theme=radical)
+
+<div>
+  <img src="unity-tab-circle-white.png" alt="" style="width: 48px; height: 48px;">
+</div>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&count_private=true&theme=radical) -->
 
 <!--
