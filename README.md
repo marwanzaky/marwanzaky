@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
 <!--
 **marwanzaky/marwanzaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
