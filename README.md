@@ -2,8 +2,9 @@
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&show_icons=true&theme=radical)
 
 <div>
-  <img src="unity-tab-circle-white.png" alt="" style="width: 48px; height: 48px;">
-  <img src="csharp.png" alt="" style="width: 48px; height: 48px;">
+  <img src="unity-tab-circle-white.png" alt="" style="width: 40px; height: 40px;">
+  <img src="csharp.png" alt="" style="width: 40px; height: 40px;">
+  <img src="firebase.png" alt="" style="width: 40px; height: 40px;">
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&count_private=true&theme=radical) -->
