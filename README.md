@@ -13,6 +13,6 @@
 
 * Unity
 * C#
-* HTML / CSS / JS
 * Firebase
+* HTML / CSS / JS
 * Blender
