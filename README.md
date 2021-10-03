@@ -10,7 +10,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&theme=radical)
 
 ## Languages and Tools I use:
-
 * Unity
 * C#
 * Firebase
