@@ -6,7 +6,7 @@
 - 📫 How to reach me: marwanzaky.dev@gmail.com
 
 ## 📈 GitHub Stats
-![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&hide=issues&show_icons=true&theme=radical)
+![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&theme=radical)
 
 ## Languages and Tools I use:
