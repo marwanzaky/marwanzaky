@@ -20,3 +20,4 @@
 * Firebase
 * HTML / CSS / JS
 * Blender
+<a href="https://github.com/marwanzaky/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&layout=compact&theme=buefy&hide_border=true" /></a>
