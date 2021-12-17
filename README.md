@@ -6,9 +6,9 @@
 - 📫 How to reach me: marwanzaky.dev@gmail.com
 
 ## 📈 GitHub Stats
-![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanzaky&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=contribs,issues"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&layout=compact&theme=radical&hide_border=true" />
+<!-- ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&show_icons=true&theme=radical) -->
+![MarwanZaky GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=contribs,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&layout=compact&theme=radical&hide_border=true)
 
 ## Languages and Tools I use:
 <code><img height="20" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"></code>
