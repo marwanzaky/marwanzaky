@@ -7,7 +7,7 @@
 
 ## 📈 GitHub Stats
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanzaky&show_icons=true&include_all_commits=true&theme=radical&count_private=true&hide_border=true&hide=contribs"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanzaky&show_icons=true&include_all_commits=true&theme=radical&count_private=true&hide=issues&hide_border=true&hide=contribs"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&layout=compact&theme=radical&hide_border=true" />
 
 ## Languages and Tools I use:
