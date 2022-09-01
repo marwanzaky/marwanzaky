@@ -19,6 +19,6 @@
 * Unity
 * C#
 * Firebase
-* HTML / CSS / JS / React.js / TailwindCss
+* HTML / CSS / SASS / JS / React.js / TailwindCss
 * Node.js / Express.js / MongoDB
 * Blender
