@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Marwan.
 - 👀 I’m interested in development games for iOS & Android and Websites...
 - 👯 I’m looking to collaborate on ambitious or large project.
-- 📫 How to reach me: contact@marwanzaky.com
 
 ## 📈 GitHub Stats
 <!-- ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&show_icons=true&theme=radical) -->
