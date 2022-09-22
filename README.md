@@ -1,7 +1,8 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=marwanzaky) [![Profile badge](https://www.codewars.com/users/marwanzaky/badges/micro?theme=dark)](https://www.codewars.com/users/marwanzaky)
 ## Hi there 👋
 - 👋 Hi, I’m Marwan.
-- 👀 I’m interested in development games for iOS & Android and Websites...
+- 🔭 I’m currently working at **100Devs**.
+- 👀 I’m interested in development **Web Apps** and **Games** for iOS & Android...
 - 👯 I’m looking to collaborate on ambitious or large project.
 
 ## 📈 GitHub Stats
