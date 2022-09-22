@@ -40,3 +40,8 @@
   <img src="https://img.shields.io/badge/-Github-2c3e50.svg?logo=github&style=flat">
   <img src="https://img.shields.io/badge/-Visual Studio Code-2c3e50.svg?logo=visualstudiocode&style=flat">
 </div>
+
+<div>
+  <img src="https://img.shields.io/badge/-Postman-2c3e50.svg?logo=postman&style=flat">
+  <img src="https://img.shields.io/badge/-Figma-2c3e50.svg?logo=figma&style=flat">
+</div>
