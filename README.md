@@ -33,6 +33,7 @@
 <div>
   <img src="https://img.shields.io/badge/-JavaScript-2c3e50.svg?logo=javascript&style=flat">
   <img src="https://img.shields.io/badge/-React.js-2c3e50.svg?logo=react&style=flat">
+  <img src="https://img.shields.io/badge/-Material UI-2c3e50.svg?logo=mui&style=flat">
 </div>
 
 <div>
