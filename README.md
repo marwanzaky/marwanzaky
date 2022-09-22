@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=marwanzaky) [![Profile badge](https://www.codewars.com/users/marwanzaky/badges/micro?theme=dark)](https://www.codewars.com/users/hugmanrique)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=marwanzaky) [![Profile badge](https://www.codewars.com/users/marwanzaky/badges/micro?theme=dark)](https://www.codewars.com/users/marwanzaky)
 ## Hi there 👋
 - 👋 Hi, I’m Marwan.
 - 👀 I’m interested in development games for iOS & Android and Websites...
