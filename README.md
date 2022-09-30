@@ -46,4 +46,5 @@
 <div>
   <img src="https://img.shields.io/badge/-Postman-2c3e50.svg?logo=postman&style=flat">
   <img src="https://img.shields.io/badge/-Figma-2c3e50.svg?logo=figma&style=flat">
+  <img src="https://img.shields.io/badge/-Notion-2c3e50.svg?logo=notion&style=flat">
 </div>
