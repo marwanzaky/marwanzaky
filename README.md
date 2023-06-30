@@ -19,6 +19,7 @@
 </div>
 
 <div>
+  <img src="https://img.shields.io/badge/-Nest.js-2c3e50.svg?logo=nestjs&style=flat">
   <img src="https://img.shields.io/badge/-Node.js-2c3e50.svg?logo=node.js&style=flat">
   <img src="https://img.shields.io/badge/-Express.js-2c3e50.svg?logo=express&style=flat">
   <img src="https://img.shields.io/badge/-MongoDB-2c3e50.svg?logo=mongodb&style=flat">
@@ -32,10 +33,11 @@
 </div>
 
 <div>
+  <img src="https://img.shields.io/badge/-TypeScript-2c3e50.svg?logo=typescript&style=flat">
   <img src="https://img.shields.io/badge/-JavaScript-2c3e50.svg?logo=javascript&style=flat">
   <img src="https://img.shields.io/badge/-Next.js-2c3e50.svg?logo=next.js&style=flat">
   <img src="https://img.shields.io/badge/-React.js-2c3e50.svg?logo=react&style=flat">
-  <img src="https://img.shields.io/badge/-Material UI-2c3e50.svg?logo=mui&style=flat">
+  <img src="https://img.shields.io/badge/-Angular-2c3e50.svg?logo=angular&style=flat">
 </div>
 
 <div>
