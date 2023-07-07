@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Marwan.
 - 🔭 I’m currently working @ **ALPHA10X**.
 - 👀 I’m interested in development **Web Apps** and **Games** for iOS & Android...
-- 👯 I’m looking to collaborate on ambitious or large project.
+- 👯 I’m looking to collaborate on an ambitious or large project.
 
 ## 📈 GitHub Stats
 <!-- ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&show_icons=true&theme=radical) -->
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/-Node.js-2c3e50.svg?logo=node.js&style=flat">
   <img src="https://img.shields.io/badge/-Express.js-2c3e50.svg?logo=express&style=flat">
   <img src="https://img.shields.io/badge/-MongoDB-2c3e50.svg?logo=mongodb&style=flat">
+  <img src="https://img.shields.io/badge/-Neo4j-2c3e50.svg?logo=neo4j&style=flat">
 </div>
 
 <div>
