@@ -42,6 +42,7 @@
 </div>
 
 <div>
+  <img src="https://img.shields.io/badge/-Azure-2c3e50.svg?logo=azure-devops&style=flat">
   <img src="https://img.shields.io/badge/-Git-2c3e50.svg?logo=git&style=flat">
   <img src="https://img.shields.io/badge/-Github-2c3e50.svg?logo=github&style=flat">
   <img src="https://img.shields.io/badge/-Visual Studio Code-2c3e50.svg?logo=visualstudiocode&style=flat">
