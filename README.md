@@ -1,7 +1,7 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=marwanzaky) [![Profile badge](https://www.codewars.com/users/marwanzaky/badges/micro?theme=dark)](https://www.codewars.com/users/marwanzaky)
 ## Hi there 👋
 - 👋 Hi, I’m Marwan.
-- 🔭 I’m currently working @ **ALPHA10X**.
+- 🔭 I’m currently working as a Full Stack Developer @ **ALPHA10X**.
 - 👀 I’m interested in development **Web Apps** and **Games** for iOS & Android...
 - 👯 I’m looking to collaborate on an ambitious or large project.
 
