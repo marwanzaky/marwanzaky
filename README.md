@@ -1,5 +1,5 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=marwanzaky) [![Profile badge](https://www.codewars.com/users/marwanzaky/badges/micro?theme=dark)](https://www.codewars.com/users/marwanzaky)
-## Hi there 👋
+## 👋 Hi there
 - 👋 Hi, I’m Marwan.
 - 🔭 I’m currently working as a Full Stack Developer @ **ALPHA10X**.
 - 👀 I’m interested in development **Web Apps** and **Games** for iOS & Android...
@@ -10,7 +10,7 @@
 ![MarwanZaky GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=contribs,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&layout=compact&theme=radical&hide_border=true&hide=shaderlab,hlsl,css,pug)
 
-## Languages and Tools I use:
+## 🛠️ Languages and Tools I use
 <div>
   <img src="https://img.shields.io/badge/-Unity-2c3e50.svg?logo=unity&style=flat">
   <img src="https://img.shields.io/badge/-C%23-2c3e50.svg?logo=csharp&style=flat">
