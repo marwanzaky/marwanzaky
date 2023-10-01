@@ -60,6 +60,13 @@ Check out some of my noteworthy projects:
   <img src="https://img.shields.io/badge/-Notion-2c3e50.svg?logo=notion&style=flat">
 </div>
 
+## 📕 Latest Blog Posts
+<!-- HASHNODE:START -->
+- [My thoughts after learning Angular](https://marwanzaky.hashnode.dev/my-thoughts-after-learning-angular)
+<!-- HASHNODE:END -->
+
+... [Read more articles on Hashnode](https://hashnode.com/@marwanzaky)
+
 ## 🤝 Let's Collaborate
 
 I'm always excited to collaborate on new projects and ideas. If you have something in mind or just want to say hi, feel free to reach out. Let's create something amazing together!
