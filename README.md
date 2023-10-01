@@ -10,6 +10,12 @@
 ![MarwanZaky GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=contribs,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&layout=compact&theme=radical&hide_border=true&hide=shaderlab,hlsl,css,pug)
 
+## ✨ My Projects
+
+Check out some of my noteworthy projects:
+
+🚀 [Blooming Kingdom](https://play.google.com/store/apps/details?id=com.aiwabox.blooming.kingdom/) | 🚀 [Flower Adventurer](https://apps.apple.com/us/app/amanda-flower-adventurer/id1614589612/) | 🚀 [Idle Pottery Shop](https://apps.apple.com/us/app/idle-pottery-shop/id1615734663/) | 🚀 [Mamolio](https://www.mamolio.com/)
+
 ## 🛠️ Languages and Tools I use
 <div>
   <img src="https://img.shields.io/badge/-Unity-2c3e50.svg?logo=unity&style=flat">
