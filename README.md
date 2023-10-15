@@ -22,6 +22,7 @@ Check out some of my noteworthy projects:
   <img src="https://img.shields.io/badge/-C%23-2c3e50.svg?logo=csharp&style=flat">
   <img src="https://img.shields.io/badge/-Blender-2c3e50.svg?logo=blender&style=flat">
   <img src="https://img.shields.io/badge/-Firebase-2c3e50.svg?logo=firebase&style=flat">
+  <img src="https://img.shields.io/badge/-Rust-2c3e50.svg?logo=rust&style=flat">
 </div>
 
 <div>
