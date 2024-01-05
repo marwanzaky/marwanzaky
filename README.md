@@ -26,11 +26,13 @@ Check out some of my noteworthy projects:
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/-Nest.js-2c3e50.svg?logo=nestjs&style=flat">
   <img src="https://img.shields.io/badge/-Node.js-2c3e50.svg?logo=node.js&style=flat">
+  <img src="https://img.shields.io/badge/-Nest.js-2c3e50.svg?logo=nestjs&style=flat">
   <img src="https://img.shields.io/badge/-Express.js-2c3e50.svg?logo=express&style=flat">
+  <img src="https://img.shields.io/badge/-FastAPI-2c3e50.svg?logo=fastapi&style=flat">
   <img src="https://img.shields.io/badge/-MongoDB-2c3e50.svg?logo=mongodb&style=flat">
   <img src="https://img.shields.io/badge/-Neo4j-2c3e50.svg?logo=neo4j&style=flat">
+  <img src="https://img.shields.io/badge/-Python-2c3e50.svg?logo=python&style=flat">
 </div>
 
 <div>
@@ -60,6 +62,7 @@ Check out some of my noteworthy projects:
   <img src="https://img.shields.io/badge/-Postman-2c3e50.svg?logo=postman&style=flat">
   <img src="https://img.shields.io/badge/-Figma-2c3e50.svg?logo=figma&style=flat">
   <img src="https://img.shields.io/badge/-Notion-2c3e50.svg?logo=notion&style=flat">
+  <img src="https://img.shields.io/badge/-Docker-2c3e50.svg?logo=docker&style=flat">
 </div>
 
 ## 📕 Latest Blog Posts
