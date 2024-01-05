@@ -8,7 +8,7 @@
 ## 📈 GitHub Stats
 <!-- ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&show_icons=true&theme=radical) -->
 ![MarwanZaky GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=contribs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&layout=compact&theme=radical&hide_border=true&hide=shaderlab,hlsl,css,pug)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&layout=compact&theme=radical&hide_border=true&hide=shaderlab,hlsl,css,scss,pug)
 
 ## ✨ My Projects
 
