@@ -23,6 +23,7 @@ Check out some of my noteworthy projects:
   <img src="https://img.shields.io/badge/-Blender-2c3e50.svg?logo=blender&style=flat">
   <img src="https://img.shields.io/badge/-Firebase-2c3e50.svg?logo=firebase&style=flat">
   <img src="https://img.shields.io/badge/-Rust-2c3e50.svg?logo=rust&style=flat">
+  <img src="https://img.shields.io/badge/-Python-2c3e50.svg?logo=python&style=flat">
 </div>
 
 <div>
@@ -32,7 +33,7 @@ Check out some of my noteworthy projects:
   <img src="https://img.shields.io/badge/-FastAPI-2c3e50.svg?logo=fastapi&style=flat">
   <img src="https://img.shields.io/badge/-MongoDB-2c3e50.svg?logo=mongodb&style=flat">
   <img src="https://img.shields.io/badge/-Neo4j-2c3e50.svg?logo=neo4j&style=flat">
-  <img src="https://img.shields.io/badge/-Python-2c3e50.svg?logo=python&style=flat">
+  <img src="https://img.shields.io/badge/-Elastic-2c3e50.svg?logo=elastic&style=flat">
 </div>
 
 <div>
