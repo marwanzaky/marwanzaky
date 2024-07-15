@@ -1,6 +1,5 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=marwanzaky) [![Profile badge](https://www.codewars.com/users/marwanzaky/badges/micro?theme=dark)](https://www.codewars.com/users/marwanzaky)
-## 👋 Hi there
-- 👋 Hi, I’m Marwan.
+## 👋 Hello there
+- 👋 Hello, I’m Marwan.
 - 🔭 I’m currently working as a Full Stack Developer @ **ALPHA10X**.
 - 👀 I’m interested in development **Web Apps** and **Games** for iOS & Android...
 - 👯 I’m looking to collaborate on an ambitious or large project.
@@ -14,7 +13,7 @@
 
 Check out some of my noteworthy projects:
 
-🚀 [Blooming Kingdom](https://play.google.com/store/apps/details?id=com.aiwabox.blooming.kingdom) | 🚀 [Flower Adventurer](https://apps.apple.com/us/app/amanda-flower-adventurer/id1614589612/) | 🚀 [Idle Pottery Shop](https://apps.apple.com/us/app/idle-pottery-shop/id1615734663/) | 🚀 [Mamolio](https://www.mamolio.com/)
+🚀 [Blooming Kingdom](https://play.google.com/store/apps/details?id=com.aiwabox.blooming.kingdom) | 🚀 [Flower Adventurer](https://apps.apple.com/us/app/amanda-flower-adventurer/id1614589612/) | 🚀 [Idle Pottery Shop](https://apps.apple.com/us/app/idle-pottery-shop/id1615734663/) | 🚀 [Mamolio](https://mamolio.vercel.app/)
 
 ## 🛠️ Languages and Tools I use
 <div>
