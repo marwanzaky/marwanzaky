@@ -1,21 +1,20 @@
-## 👋 Hello there
-- 👋 Hello, I’m Marwan.
-- 🔭 I’m currently working as a Full Stack Developer @ **ALPHA10X**.
-- 👀 I’m interested in development **Web Apps** and **Games** for iOS & Android...
-- 👯 I’m looking to collaborate on an ambitious or large project.
+### 👋 Hello there
+- 👋 Hello, I’m Marwan
+- 🔭 I’m currently working as a Full Stack Developer @ [ALPHA10X](https://www.alpha10x.com/)
+- 👀 I’m interested in development **web apps** and **games** for iOS & Android
+- 👯 I’m looking to collaborate on an ambitious or large project
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 <!-- ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&count_private=true&hide=contribs&show_icons=true&theme=radical) -->
 ![MarwanZaky GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanzaky&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=contribs,issues&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzaky&layout=compact&theme=radical&hide_border=true&hide=shaderlab,hlsl,css,scss,pug)
 
-## ✨ My Projects
-
+### ✨ My Projects
 Check out some of my noteworthy projects:
 
 🚀 [Blooming Kingdom](https://play.google.com/store/apps/details?id=com.aiwabox.blooming.kingdom) | 🚀 [Flower Adventurer](https://apps.apple.com/us/app/amanda-flower-adventurer/id1614589612/) | 🚀 [Idle Pottery Shop](https://apps.apple.com/us/app/idle-pottery-shop/id1615734663/) | 🚀 [Mamolio](https://mamolio.vercel.app/)
 
-## 🛠️ Languages and Tools I use
+### 🛠️ Languages and Tools I use
 <div>
   <img src="https://img.shields.io/badge/-Unity-2c3e50.svg?logo=unity&style=flat">
   <img src="https://img.shields.io/badge/-C%23-2c3e50.svg?logo=csharp&style=flat">
@@ -66,13 +65,13 @@ Check out some of my noteworthy projects:
   <img src="https://img.shields.io/badge/-Docker-2c3e50.svg?logo=docker&style=flat">
 </div>
 
-## 📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 <!-- HASHNODE:START -->
 - [My thoughts after learning Angular](https://marwanzaky.hashnode.dev/my-thoughts-after-learning-angular)
 <!-- HASHNODE:END -->
 
 ... [Read more articles on Hashnode](https://hashnode.com/@marwanzaky)
 
-## 🤝 Let's Collaborate
+### 🤝 Let's Collaborate
 
 I'm always excited to collaborate on new projects and ideas. If you have something in mind or just want to say hi, feel free to reach out. Let's create something amazing together!
