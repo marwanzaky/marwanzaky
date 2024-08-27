@@ -12,7 +12,7 @@
 ## ✨ My Projects
 Check out some of my noteworthy projects:
 
-🚀 [Blooming Kingdom](https://play.google.com/store/apps/details?id=com.aiwabox.blooming.kingdom) | 🚀 [Flower Adventurer](https://apps.apple.com/us/app/amanda-flower-adventurer/id1614589612/) | 🚀 [Idle Pottery Shop](https://apps.apple.com/us/app/idle-pottery-shop/id1615734663/) | 🚀 [Mamolio](https://mamolio.vercel.app/)
+🚀 [Blooming Kingdom](https://www.youtube.com/watch?v=Mud0-TqxFnA&ab_channel=BloomingKingdom) | 🚀 [Flower Adventurer](https://apps.apple.com/us/app/amanda-flower-adventurer/id1614589612/) | 🚀 [Idle Pottery Shop](https://apps.apple.com/us/app/idle-pottery-shop/id1615734663/) | 🚀 [Mamolio](https://mamolio.vercel.app/)
 
 ## 🛠️ Languages and Tools I use
 <div>
