@@ -47,6 +47,7 @@ Check out some of my noteworthy projects:
   <img src="https://img.shields.io/badge/-Next.js-2c3e50.svg?logo=next.js&style=flat">
   <img src="https://img.shields.io/badge/-React.js-2c3e50.svg?logo=react&style=flat">
   <img src="https://img.shields.io/badge/-Angular-2c3e50.svg?logo=angular&style=flat">
+  <img src="https://img.shields.io/badge/-Storybook-2c3e50.svg?logo=storybook&style=flat">
   <img src="https://img.shields.io/badge/Redux-2c3e50.svg?logo=redux&style=flat">
 </div>
 
