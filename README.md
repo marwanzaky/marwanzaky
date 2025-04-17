@@ -57,6 +57,7 @@ Check out some of my noteworthy projects:
   <img src="https://img.shields.io/badge/-Github-2c3e50.svg?logo=github&style=flat">
   <img src="https://img.shields.io/badge/-Visual Studio Code-2c3e50.svg?logo=visualstudiocode&style=flat">
   <img src="https://img.shields.io/badge/-Nx-2c3e50.svg?logo=nx&style=flat">
+  <img src="https://img.shields.io/badge/-Jest-2c3e50.svg?logo=jest&style=flat">
 </div>
 
 <div>
