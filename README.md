@@ -39,6 +39,8 @@ Check out some of my noteworthy projects:
   <img src="https://img.shields.io/badge/-CSS3-2c3e50.svg?logo=css3&style=flat">
   <img src="https://img.shields.io/badge/-Sass-2c3e50.svg?logo=sass&style=flat">
   <img src="https://img.shields.io/badge/-Tailwind CSS-2c3e50.svg?logo=tailwindcss&style=flat">
+  <img src="https://img.shields.io/badge/-Shadcn-2c3e50.svg?logo=shadcnui&style=flat">
+  <img src="https://img.shields.io/badge/-PrimeNG-2c3e50.svg?logo=primeng&style=flat">
 </div>
 
 <div>
@@ -58,6 +60,7 @@ Check out some of my noteworthy projects:
   <img src="https://img.shields.io/badge/-Visual Studio Code-2c3e50.svg?logo=visualstudiocode&style=flat">
   <img src="https://img.shields.io/badge/-Nx-2c3e50.svg?logo=nx&style=flat">
   <img src="https://img.shields.io/badge/-Jest-2c3e50.svg?logo=jest&style=flat">
+  <img src="https://img.shields.io/badge/-Swagger-2c3e50.svg?logo=swagger&style=flat">
 </div>
 
 <div>
