@@ -67,6 +67,7 @@ Check out some of my noteworthy projects:
 
 ## 📕 Latest Blog Posts
 <!-- HASHNODE:START -->
+- [How to Implement Google OAuth 2.0 in Next.js with NestJS](https://marwanzaky.hashnode.dev/how-to-implement-google-oauth-2-0-in-next-js-with-nestjs)
 - [My thoughts after learning Angular](https://marwanzaky.hashnode.dev/my-thoughts-after-learning-angular)
 <!-- HASHNODE:END -->
 
