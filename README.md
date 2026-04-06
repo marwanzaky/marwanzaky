@@ -66,11 +66,9 @@ Check out some of my noteworthy projects:
 </div>
 
 ## 📕 Latest Blog Posts
-<!-- HASHNODE:START -->
 - [Stop Writing Messy Forms — Use This Modern Next.js Validation Stack](https://dev.to/marwanzaky/stop-writing-messy-forms-use-this-modern-nextjs-validation-stack-25nj)
-- [How to Implement Google OAuth 2.0 in Next.js with NestJS](https://marwanzaky.hashnode.dev/how-to-implement-google-oauth-2-0-in-next-js-with-nestjs)
-- [My thoughts after learning Angular](https://marwanzaky.hashnode.dev/my-thoughts-after-learning-angular)
-<!-- HASHNODE:END -->
+- [How to Implement Google OAuth 2.0 in Next.js with NestJS](https://dev.to/marwanzaky/how-to-implement-google-oauth-20-in-nextjs-with-nestjs-3pnh)
+- [My thoughts after learning Angular](https://dev.to/marwanzaky/my-thoughts-after-learning-angular-1g8g)
 
 ... [Read more articles on Hashnode](https://hashnode.com/@marwanzaky)
 
